@@ -1,4 +1,4 @@
-var usrs = ["loydni"]
+var usrs = [""]
 var pwds = [""]
 function validate() {
   var usr = ["signin"]["usr"].value;
